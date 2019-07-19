@@ -21,7 +21,7 @@ const replies = [
     reply: 'https://i.imgur.com/h3WAFke.png'
   },
   {
-    test: /^grr$/i,
+    test: /^grr+$/i,
     reply: 'https://i.imgur.com/IKWwe3Z.jpg'
   }
 ];
